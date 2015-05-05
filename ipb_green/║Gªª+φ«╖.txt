@@ -1,0 +1,3 @@
+1.此佈景XOOPS部分版權由 http://petitoops.net/ 所有,但允許RB修改釋出,整體佈景版權為 Koudanshi 中文支援 所有,僅提供私人網站性質使用
+2. 檔案解壓縮後放置於XOOPS\themes資料夾下
+3.將IPB_green_CSS,1.css放入modules\ipboard\archive_in 資料夾下,由ACP匯入並使用即可

@@ -1,0 +1,362 @@
+html {
+	scrollbar-3dlight-color:#d1d7dc;
+	scrollbar-arrow-color:#006699;
+	scrollbar-darkshadow-color:#CCCC66;
+	scrollbar-face-color:#C8E395;
+	scrollbar-highlight-color:#ffffff;
+	scrollbar-shadow-color:#cedcec;
+	scrollbar-track-color:#fffffcc;
+}
+
+body{
+	background:#DBEDBA;
+	color:#555555;
+	font:11px Verdana,Arial,Helvetica,sans-serif;margin:6px;
+	padding:0;
+}
+
+td.topnav{
+	text-align: center;
+	vertical-align: middle;	
+	background-image: url('images/hbar.gif');
+	background-repeat:repeat-x;  
+	repeat-x;color:#669900;
+	white-space:nowrap;
+	height:25px
+}
+
+td.header{
+	text-align: left;
+	background: #C8E395;  
+}
+
+td.banner{
+	text-align: center;
+	background: #C8E395; 
+}
+
+a:link, a:active, a:visited { 
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+	font-size: 11px; 
+	text-decoration: none; 
+	color: #555555; 
+	font-style: norma
+}
+a:hover { 
+	text-decoration: none;  
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+	font-size: 11px; 
+	text-decoration: none;
+	color: #6B8E23; 
+	font-style: normal
+}
+
+.outline{
+	background: #ffffff;
+	border: solid 1px #cccc66;
+}
+table { 
+	width: 100%; 
+	margin: 5; 
+	padding: 5;
+	font-size: small 
+}
+table td { 
+	padding: 0px; 
+	border-width: 0; 
+	vertical-align: top; 
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+
+td {  
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+	color: #555555; 
+	font-size: 11px;
+	border-top-width : 1px; 
+	background: #fffff;
+	border-right-width : 1px; 
+	border-bottom-width : 1px; 
+	border-left-width : 1px;	
+}
+
+td.header {	
+	text-align: center;
+	vertical-align: middle;
+	background-color : #C8E395;	
+}
+
+
+
+input { 
+	background-color : #fffffcc;
+	color : #555555;
+	font-size: 11px; font-family: Verdana, Arial, Helvetica, sans-serif;  
+}
+
+textarea {
+	color : #555555;	
+	font: normal 11px Verdana, Arial, Helvetica, sans-serif;
+	border: solid 1px #000000;
+}
+select {
+	color : #555555;
+	font: normal 11px Verdana, Arial, Helvetica, sans-serif;
+	border-color : #000000; 
+} 
+img { 
+	border: 0px none;
+}
+ul { 
+	margin: 2px; 
+	padding: 2px; 
+	list-style: decimal inside; 
+	text-align: left;
+}
+li { 
+	margin-left: 2px; 
+	list-style: disc inside;
+}
+
+.odd { 
+	background-color: #ECF5D3;
+	text-align: left;
+		
+}
+.outer { 
+	background-color: #C8E395;
+	text-align:left;
+	border: 2px ;
+	border-color : #cccc66;
+}
+.even { 
+	background-color: #ECF5D3;
+			
+}
+th { 
+	background-color: #C8E395;
+	color : #333333; 
+	text-align: left; 
+	padding: 5px;
+	font-size: 11px;
+}
+
+
+.head { 
+	color: #555555; 
+	font-size: 9px; 
+	font-weight : bold; 
+	height: 25px;
+	background-color: #C8E395;
+	vertical-align: middle;	
+}
+.foot { 
+	background-color: #C8E395; 
+	padding: 3px;
+	font-size: 11px;
+}
+
+.comTitle {
+	color: #555555; 
+	font-size: 11px; 
+	font-weight : bold;
+	background: #fffff;
+	height: 23px;
+	text-align: left;
+	padding-top: 7px;
+	padding-left: 10px;	
+
+}
+.comText {
+	padding: 20px;
+	text-align: left;
+	 		
+}
+.comUserStat {
+	font-size: 10px; 
+	color: #555555; 
+	font-weight:bold; 
+	border: 1px solid #cccccc; 
+	background-color: #DBEDBA; 
+	margin: 2px; padding: 2px;
+}
+.comUserStatCaption {
+	font-weight: normal;
+}
+.comUserStatus {
+	margin-left: 2px; 
+	margin-top: 10px; 
+	color: #669933; 
+	font-weight:bold; 
+	font-size: 10px;
+}
+.comUserRank {
+	margin: 2px;
+}
+.comUserRankText {
+	font-size: 10px;
+	font-weight:bold;
+}
+.comUserRankImg {
+	border: 0px none;
+}
+.comUserName {}
+.comUserImg {
+	margin: 2px;
+}
+.comDate {
+	color: #000000;
+	font-weight: normal; 
+	font-style: italic;	 
+	font-size: smaller;
+	text-align: right;	
+}
+.comDateCaption {
+	color: #555555;
+	font-weight: bold; 
+	font-style: normal;
+	text-align: right;	
+}
+
+div.xoopsCode { 
+	background: #DBEDBA;
+	font-weight : bold 
+	border: 1px solid #d1d7dc;
+	color:#111111;	 
+	font: 12px; 
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; 
+	padding: 0px 6px 6px 6px;
+}
+
+div.xoopsQuote { 
+	background: #DBEDBA; 
+	border: 1px solid #d1d7dc;
+	color:#444444;	 
+	font: normal 11px; 
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+	padding: 0px 6px 6px 6px;
+}
+
+
+.item {
+	background: #DBEDBA;
+	
+}
+.itemHead {
+	color: #555555; 
+	font-size: 11px; 
+	font-weight : bold;
+	background-image: url('images/tile_back_small.gif');
+	height: 20px;
+	padding-top: 7px;
+	padding-left: 7px;
+	border-left: 3px double #CCCC66;
+	border-right:3px double #CCCC66;
+	border-top:3px double #CCCC66;
+	border-bottom:1px solid #CCCC66;		
+}
+.itemInfo {
+	text-align: right; 
+	padding: 3px; 
+	background-color: #C8E395;
+	border-left: double 3px #CCCC66;
+	border-right:double 3px #CCCC66;
+}
+.itemTitle a {
+	font-size: 100%; 
+	font-size: 11px;	
+	font-weight: bold; 
+	font-variant: small-caps; 
+	color: #555555; 
+	background-color: transparent;
+}
+.itemPoster {
+	color: #999933;
+	font-size: 90%; 
+	font-style: normal;
+}
+
+
+.itemPostDate {
+    color: #999933;
+	font-size: 90%; 
+	font-style: normal;
+}
+.itemStats {
+	color: #FF66CC;
+	font-size: 90%; 
+	font-style: normal;
+}
+.itemBody {
+	color: #FF66CC;
+	padding-left: 5px; 
+	text-align: left;
+	border-left: double 3px #CCCC66;
+	border-right: double 3px #CCCC66;
+	border-top: solid 1px #CCCC66;	
+	border-bottom: solid 1px #CCCC66;			
+}
+.itemText {
+	color: #333333;
+	margin-top: 5px; 
+	margin-bottom: 5px; 
+	line-height: 1.5em;
+}
+
+.itemFoot {
+    color: #999933;
+	text-align: right; 
+	padding: 3px; 
+	background-color: #C8E395;
+	border-left: double 3px #CCCC66;
+	border-right:double 3px #CCCC66;
+	border-bottom:double 3px #CCCC66;		
+}
+.itemAdminLink {
+	font-size: 90%;
+}
+.itemPermaLink {
+	font-size: 90%;
+}
+
+.blockTitle {
+	color : #555555;
+	font-size: 11px;
+	font-weight: bold;
+	text-align: center;
+	background-image: url('images/tile_back_small.gif');
+	border: 1px solid #cccc66; 
+	height: 28px;
+	vertical-align: middle	
+}
+
+.blockTitle2 {
+	color: #555555;
+	font-weight: bold;
+	font-size: 11px;
+	text-align: center;	
+	background-image: url('images/tile_back_small.gif');
+	border: 1px solid #cccc66; 
+	height: 28px;
+	vertical-align: middle	
+}
+
+.blockTitle3 {
+	color: #555555;
+	font-weight: normal;
+	font-size: 10px;
+	text-align: center;	
+	background-color: #C8E395;
+	border: 1px solid #cccccc; 
+	height: 20px;
+	vertical-align: middle	
+}
+
+.blockContent {
+	background-color: #C8E395; 
+	padding: 2px;
+	border-left: solid 1px #CCCC66;
+	border-right:solid 1px #CCCC66;
+	border-bottom:solid 1px #CCCC66;
+	line-height:133%;
+}
